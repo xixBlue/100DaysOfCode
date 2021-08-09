@@ -1,0 +1,4 @@
+1. Filled in contract
+2. Uploaded Contract to Notion
+3. Created tracker repo
+4. Updated Readme in tracker repo
